@@ -2399,7 +2399,7 @@ footer .footer-top img{
 .index-reviews{
     padding-top:160px;
     padding-bottom:100px;
-    position:relative
+    position:relative;
 }
 @media only screen and (max-width: 767px){
     .index-reviews{
@@ -2484,19 +2484,19 @@ footer .footer-top img{
 @media only screen and (max-width: 1200px){
     .index-reviews--review{
         font-size:36px;
-        line-height:55px
+        line-height:45px
     }
 }
 @media only screen and (max-width: 979px){
     .index-reviews--review{
         font-size:32px;
-        line-height:48px
+        line-height:38px
     }
 }
 @media only screen and (max-width: 767px){
     .index-reviews--review{
         font-size:24px;
-        line-height:38px
+        line-height:28px
     }
 }
 .index-reviews .carousel-cell{
